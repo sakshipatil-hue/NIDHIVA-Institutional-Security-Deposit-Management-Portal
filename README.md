@@ -211,61 +211,10 @@ flowchart TB
 
 ---
 
-## 🖼 Screenshots
-
-<!-- TODO: add screenshots here. Easiest way: click the pencil icon to edit this README on GitHub,
-     drag and drop each image into the editor, and GitHub inserts the image link for you. -->
 
 🎥 **Demo video:** <!-- TODO: paste YouTube link -->
+https://youtu.be/91dkSPvSaus
 
----
-
-## 🚀 Run it locally
-
-The repository currently contains the **frontend**.
-
-```bash
-# 1. Clone
-git clone https://github.com/SaiGadwe/NIDHIVA-Institutional-Security-Deposit-Management-Portal.git
-cd NIDHIVA-Institutional-Security-Deposit-Management-Portal/frontend
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the dev server
-npm run dev
-```
-
-<!-- TODO: confirm the exact commands against frontend/package.json (dev vs start) and add any .env variables. -->
-
----
-
-## 📁 Project structure
-
-```text
-NIDHIVA-Institutional-Security-Deposit-Management-Portal/
-├── frontend/          # React web app
-└── README.md
-```
-
-<!-- TODO: update this tree as you add backend/, docs/ and other folders. -->
-
----
-
-## 🗺 Roadmap
-
-<!-- TODO: tick only what actually works in your prototype. -->
-
-- [ ] Institution view: FDR submission and document upload
-- [ ] Rule-based discrepancy checks
-- [ ] Officer scrutiny with submitted vs bank-confirmed tagging
-- [ ] Maturity tracking with configurable reminders
-- [ ] Renewal linking with history
-- [ ] Release and refund approval workflow
-- [ ] Dashboard and automated reports
-- [ ] Role-based access and audit trail
-- [ ] Real bank verification API integration *(needs formal authorization)*
-- [ ] Integration with existing AICTE systems *(needs formal authorization)*
 
 ---
 
