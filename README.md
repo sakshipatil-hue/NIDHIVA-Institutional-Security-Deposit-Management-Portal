@@ -11,7 +11,7 @@
 ![Organization](https://img.shields.io/badge/AICTE-Regulation%20Bureau-1f9d8a?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%20Prototype-8e5bd9?style=for-the-badge)
 
-[The problem](#-the-problem) · [Our solution](#-our-solution) · [How it works](#-how-it-works) · [Architecture](#-architecture) · [Run it](#-run-it-locally) · [Roadmap](#-roadmap)
+[The problem](#-the-problem) · [Our solution](#-our-solution) · [How it works](#-how-it-works) · [Architecture](#-architecture) 
 
 </div>
 
@@ -243,7 +243,7 @@ https://youtu.be/91dkSPvSaus
 <!-- TODO: add team name, members and roles. -->
 
 | Team Name | 555_ATHENA |
-|Problem|SIH26265|
+|Problem | SIH26265|
 | Domain | Smart Automation|
 
 ---
