@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="NIDHIVA: Institutional Security Deposit Management Portal" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2a47&height=230&section=header&text=NIDHIVA&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Institutional%20Security%20Deposit%20Management%20Portal&descSize=22&descColor=dbe6f3&descAlignY=60&animation=fadeIn" alt="NIDHIVA: Institutional Security Deposit Management Portal" width="100%"/>
 
 <br/>
 
@@ -213,20 +213,44 @@ flowchart TB
 
 ## 🖼 Screenshots
 
-<!-- TODO: add real screenshots to /docs/screenshots and update the paths below. -->
-
-| Dashboard | New FDR submission |
-|---|---|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Submission](docs/screenshots/submission.png) |
-
-| Discrepancy flags | Release workflow |
-|---|---|
-| ![Flags](docs/screenshots/flags.png) | ![Release](docs/screenshots/release.png) |
+<!-- TODO: add screenshots here. Easiest way: click the pencil icon to edit this README on GitHub,
+     drag and drop each image into the editor, and GitHub inserts the image link for you. -->
 
 🎥 **Demo video:** <!-- TODO: paste YouTube link -->
 
 ---
 
+## 🚀 Run it locally
+
+The repository currently contains the **frontend**.
+
+```bash
+# 1. Clone
+git clone https://github.com/SaiGadwe/NIDHIVA-Institutional-Security-Deposit-Management-Portal.git
+cd NIDHIVA-Institutional-Security-Deposit-Management-Portal/frontend
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the dev server
+npm run dev
+```
+
+<!-- TODO: confirm the exact commands against frontend/package.json (dev vs start) and add any .env variables. -->
+
+---
+
+## 📁 Project structure
+
+```text
+NIDHIVA-Institutional-Security-Deposit-Management-Portal/
+├── frontend/          # React web app
+└── README.md
+```
+
+<!-- TODO: update this tree as you add backend/, docs/ and other folders. -->
+
+---
 
 ## 🗺 Roadmap
 
@@ -265,15 +289,13 @@ flowchart TB
 
 ---
 
-👥 Team
-<div align="center">
-	
-Project	NIDHIVA
-Competition	Smart India Hackathon 2026
-Problem Statement	SIH26265
-Domain Smart Automation
-Team name	555_ATHENA
+## 👥 Team
 
+<!-- TODO: add team name, members and roles. -->
+
+| Team Name | 555_ATHENA |
+|Problem|SIH26265|
+| Domain | Smart Automation|
 
 ---
 
